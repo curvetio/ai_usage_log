@@ -5,7 +5,7 @@ body {
     background-color: #f5f5f5;
 }
 header {
-    background-color: #301934;
+    background-color: #2B0A3D;
     color: white;
     padding: 20px;
     text-align: center;
@@ -27,7 +27,7 @@ article h2 a {
 footer {
     text-align: center;
     padding: 10px;
-    background: #301934;
+    background: #2B0A3D;
     color: white;
     margin-top: 20px;
 }
